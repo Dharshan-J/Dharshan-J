@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dharshan-J
-- 👀 I’m interested in Software Development
+- 👀 Software Developer (Frontend)
 - 🌱 I’m currently learning Blockchain Development (Full Stack)
 - 💞️ I’m looking to collaborate on some intresting software development projects
 - 📫 Mail me dharshan240301.gmail.com
